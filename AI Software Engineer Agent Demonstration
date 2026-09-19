@@ -1,0 +1,12 @@
+print("AI Software Engineer Demonstration")
+
+code = input("Enter code: ")
+
+if code == "hello world":
+    print("No error")
+
+elif code == "123":
+    print("Error: Invalid string")
+
+else:
+    print("Unknown code")
